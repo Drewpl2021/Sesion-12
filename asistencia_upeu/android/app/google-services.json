@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900700705090",
+    "project_id": "asistenciaupeu-bc8fe",
+    "storage_bucket": "asistenciaupeu-bc8fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900700705090:android:eff7bdb7d53f2a64a538db",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.asistencia_upeu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO96Gs_5cH9PAjNK9EUK3_ceQYID_8_LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
